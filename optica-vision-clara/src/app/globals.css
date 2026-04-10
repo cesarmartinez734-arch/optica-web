@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy-900: #0a1a2e;
+  --navy-800: #0f2744;
+  --teal-soft: #5ec4c4;
+  --accent: #c9a227;
+  --surface: #f8fafc;
+  --header-offset: 7.25rem;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 7.5rem;
+}
+
+@media (min-width: 1024px) {
+  html {
+    scroll-padding-top: 8rem;
+  }
+  :root {
+    --header-offset: 7.5rem;
+  }
+}
+
+body {
+  @apply bg-white text-navy-900 antialiased;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

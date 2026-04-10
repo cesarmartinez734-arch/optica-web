@@ -1,0 +1,10 @@
+{
+  "name": "optica-pagina-web",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix optica-vision-clara run dev",
+    "build": "npm --prefix optica-vision-clara run build",
+    "start": "npm --prefix optica-vision-clara run start",
+    "lint": "npm --prefix optica-vision-clara run lint"
+  }
+}
