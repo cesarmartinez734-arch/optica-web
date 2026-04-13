@@ -122,7 +122,7 @@ export const PRODUCT_CATEGORIES = [
     description:
       "Líneas clásicas y contemporáneas: metal, acetato y combinaciones ligeras.",
     imageSrc:
-      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1200&q=85",
+      "https://opticasoliva.pe/cdn/shop/collections/lentes-para-hombre.webp?v=1714260910",
     imageAlt: "Monturas y gafas de estilo clásico",
   },
   {
@@ -130,7 +130,7 @@ export const PRODUCT_CATEGORIES = [
     description:
       "Diseños finos, colores actuales y siluetas que realzan tu estilo.",
     imageSrc:
-      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XHLPaK5FU-EzS3LbNE9NsqVCORyjrywR_w&s",
     imageAlt: "Variedad de monturas y gafas",
   },
   {
@@ -146,7 +146,7 @@ export const PRODUCT_CATEGORIES = [
     description:
       "Diarios, mensuales y tóricos; te guiamos en la mejor opción para ti.",
     imageSrc:
-      "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=1200&q=85",
+      "https://laverdad.com/wp-content/uploads/2024/05/Claridad-y-confort-en-lentes-de-contacto.jpg",
     imageAlt: "Cuidado y adaptación de lentes de contacto",
   },
 ] as const;
