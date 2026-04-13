@@ -212,10 +212,9 @@ export const TESTIMONIALS = [
 
 export const CTA_FINAL = {
   title: "¿Listo para ver el mundo con más claridad?",
-  text:
-    "Agenda tu examen visual, renueva tus lentes o cotiza monturas. Escríbenos y te respondemos con la mejor opción para ti.",
+  text: "Agenda tu examen visual, renueva tus lentes o cotiza monturas. Escríbenos y te responderemos lo antes posible.",
   button: "Escribir por WhatsApp",
-} as const;
+} as const; 
 
 export const FAQ_ITEMS = [
   {
