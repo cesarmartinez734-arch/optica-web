@@ -75,7 +75,6 @@ export function Hero() {
               </p>
             </div>
           </div>
-          <div className="absolute -bottom-4 -left-4 hidden h-24 w-24 rounded-2xl border border-white bg-gradient-to-br from-teal-soft/30 to-white shadow-card lg:block" />
         </div>
       </div>
 

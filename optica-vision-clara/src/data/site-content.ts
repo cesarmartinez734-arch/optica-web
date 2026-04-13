@@ -47,7 +47,7 @@ export const HERO = {
   ctaPrimary: "Agenda tu cita por WhatsApp",
   ctaSecondary: "Ver catálogo",
   imageSrc:
-    "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=900&h=1100&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1200&q=85",
   imageAlt: "Persona con gafas elegantes en ambiente luminoso",
 } as const;
 
@@ -122,23 +122,23 @@ export const PRODUCT_CATEGORIES = [
     description:
       "Líneas clásicas y contemporáneas: metal, acetato y combinaciones ligeras.",
     imageSrc:
-      "https://images.unsplash.com/photo-1577803640853-5643f9337d56?w=600&h=480&fit=crop&q=80",
-    imageAlt: "Monturas masculinas sobre mostrador",
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1200&q=85",
+    imageAlt: "Monturas y gafas de estilo clásico",
   },
   {
     title: "Monturas para mujer",
     description:
       "Diseños finos, colores actuales y siluetas que realzan tu estilo.",
     imageSrc:
-      "https://images.unsplash.com/photo-1509697481020-6e6bbf26a029?w=600&h=480&fit=crop&q=80",
-    imageAlt: "Gafas de moda para mujer",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85",
+    imageAlt: "Variedad de monturas y gafas",
   },
   {
     title: "Lentes de sol",
     description:
       "Protección UV certificada con polarizado y tendencias de temporada.",
     imageSrc:
-      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=480&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1200&q=85",
     imageAlt: "Lentes de sol con protección UV",
   },
   {
@@ -146,8 +146,8 @@ export const PRODUCT_CATEGORIES = [
     description:
       "Diarios, mensuales y tóricos; te guiamos en la mejor opción para ti.",
     imageSrc:
-      "https://images.unsplash.com/photo-1591076482160-792ffe56d5af?w=600&h=480&fit=crop&q=80",
-    imageAlt: "Estuche y lentes de contacto",
+      "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=1200&q=85",
+    imageAlt: "Cuidado y adaptación de lentes de contacto",
   },
 ] as const;
 
